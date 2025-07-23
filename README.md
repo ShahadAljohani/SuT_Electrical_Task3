@@ -40,7 +40,4 @@ void loop()
 
 -------
 
-
-Reference:
-
-[Click here](https://mechatrofice.com/arduino/toggle-switch)
+[Reference](https://mechatrofice.com/arduino/toggle-switch)

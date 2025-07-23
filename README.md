@@ -37,3 +37,10 @@ void loop()
    digitalWrite(LED, LEDstate);
 }
 ```
+
+-------
+
+
+Reference:
+
+![Click here](https://mechatrofice.com/arduino/toggle-switch)
